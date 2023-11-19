@@ -1,1 +1,1 @@
-This is the official source code for https://stephendooley.com
+The official source code for https://stephendooley.com
